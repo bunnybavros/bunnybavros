@@ -13,9 +13,3 @@ Currently, I'm expanding my knowledge of coding and specifically, exploring the 
 ## Get in touch 🤗
 
 If you want to chat, have a question, or just say hello, you can reach me at bunnybavros@gmail.com. I'm always eager to connect with like-minded individuals and collaborate on new projects. Thanks for stopping by!
-
-<p align="center">
-  <br>
-  <img src="https://media3.giphy.com/media/5bdhq6YF0szPaCEk9Y/giphy.gif?cid=ecf05e478fqm3191gu81sdiwjxbuy7vn2tgzz5yy7f0txwsl&rid=giphy.gif&ct=g" alt="animated" />
-  <br>Animated GIF by @molangofficialpage :)
-</p>
