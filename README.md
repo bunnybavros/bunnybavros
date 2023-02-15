@@ -16,5 +16,5 @@ If you want to chat, have a question, or just say hello, you can reach me at bun
 
 <p align="center">
   <img src="https://media3.giphy.com/media/5bdhq6YF0szPaCEk9Y/giphy.gif?cid=ecf05e478fqm3191gu81sdiwjxbuy7vn2tgzz5yy7f0txwsl&rid=giphy.gif&ct=g" alt="animated" />
-  Animated GIF by @molangofficialpage :)
+  \nAnimated GIF by @molangofficialpage :)
 </p>
